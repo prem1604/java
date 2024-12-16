@@ -10,6 +10,6 @@ public class j1 {
         System.out.println("student id:" +ID);
         System.out.println("student age:" +Age);
         System.out.println("studentfee:" +studentFee);
-        System.out.println("student grade" +Grade);
+        System.out.println("student grade:" +Grade);
     }
 }
